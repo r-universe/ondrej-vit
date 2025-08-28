@@ -1,0 +1,10 @@
+{
+  "id": 83248700,
+  "created_at": "2025-08-28T18:59:30.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["vitopack"]
+}
